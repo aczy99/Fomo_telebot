@@ -21,16 +21,16 @@ To run the program, one simply has to install all the necessary packages
 that have already been conveniently placed in the requirements.txt file by
 passing
 
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 
 After the necessary packages have been install. Simply run the file using 
 python.
 
-'''bash
+```bash
 python fomo.py
-'''
+```
 
 ## Explanation
 fomo.py is the main script that contians all the functions that can be 
