@@ -1,4 +1,4 @@
-# Fomo_telebot
+# TelgramBot FOMO
 Telegram bot that would run in conjunction with the web application.
 
 Find the Telegram bot on telegram by searching @NUS_Fomo_bot
